@@ -28,8 +28,8 @@ readonly SUCCINCT_RPC_URL="https://rpc.sepolia.succinct.xyz"
 readonly STAKING_URL="https://staking.sepolia.succinct.xyz/prover"
 
 # Default prover configuration
-readonly DEFAULT_PROVE_PER_BPGU="1.05"
-readonly DEFAULT_PGUS_PER_SECOND="15000000"
+readonly DEFAULT_PROVE_PER_BPGU="1.1"
+readonly DEFAULT_PGUS_PER_SECOND="17500000"
 
 # Color codes for output
 readonly RED='\033[0;31m'
